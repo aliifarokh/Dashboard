@@ -18,7 +18,7 @@
   tailwindcss
   syncfusion 
   React Router
-  with dark/light mode and you can change theme 
+  you can change theme color and try dark/light mode
   there is a lot of charts that i built them easily with using syncfusion
   you can use kanban , calender , an amazing text editor , ...
   trust me you should try this project ...
