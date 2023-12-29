@@ -18,6 +18,11 @@
   tailwindcss
   syncfusion 
   React Router
+  with dark/light mode and you can change theme 
+  there is a lot of charts that i built them easily with using syncfusion
+  you can use kanban , calender , an amazing text editor , ...
+  trust me you should try this project ...
+  you will enjoy it!🧡
 </pre>
 
 I Deployed it on vercel and You Can See it Online :  https://dashboard-vux5.vercel.app/
